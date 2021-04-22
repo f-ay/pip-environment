@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "labaccounts_sap_lab_name": {
+            "value": null
+        },
+        "labs_ml_lab_5fb42c2b_1018_46cc_86cb_47350ecd4e10_externalid": {
+            "value": null
+        }
+    }
+}
